@@ -1,8 +1,8 @@
 {
-  "version": "0.2.1",
-  "notes": "Initial public baseline with working automatic updates.",
-  "download_url": "https://github.com/jcrvnx/onetap-releases/releases/download/v0.2.1/OneTap.exe",
-  "sha256": "2f76c2dd95462fe83faf1e98c8abbab0ba2d1a34fee23d9fe3b22527220ec863",
-  "published_at": "2026-11-04T22:43:38Z",
-  "signature": "ctjE+BPuamznLRl8oE5a0Y+f3B9huArLtW09nnBn6XU1nSWZikh/D869xGGGULavXCSuza87dzEB1Puxp0jmAQ=="
+  "version": "0.2.2",
+  "notes": "Compact shared window sizing, redesigned About, SET A/SET B labels and custom hotkey recording without the REC button.",
+  "download_url": "https://github.com/jcrvnx/onetap-releases/releases/download/v0.2.2/OneTap.exe",
+  "sha256": "b5717c1ef660833ad818d4706dd1f33aaf6053ad789136533f24b7c914f25923",
+  "published_at": "2026-11-04T23:13:10Z",
+  "signature": "HOL+j+zUn4/wOWLMdcQUlvWFmjLdxo7kqQheM71lF+/tL/DYnjA9vv3hBWfX/MD1nMU4QbR4QimpfaHPu/kZDQ=="
 }
